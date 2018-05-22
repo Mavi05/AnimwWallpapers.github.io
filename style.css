@@ -5,6 +5,11 @@
  	justify-content: center;
  }
 
+ .nav-wrapper
+ {
+ 	height: 700px;
+ }
+
  h1 
  {
 
@@ -18,7 +23,15 @@
 
  }
 
- img
+a>img
+{
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
+
+
+img
  {
  	width: 450px;
  	height: 300px;
