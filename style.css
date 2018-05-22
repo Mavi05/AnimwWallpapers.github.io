@@ -1,0 +1,32 @@
+ .images
+ {
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	justify-content: center;
+ }
+
+ h1 
+ {
+
+ 	text-align: center;
+ 	padding-bottom: 5px;
+ 	font-size: 3em;
+ 	border-bottom:  2px solid red ;
+ 	border-right: 2px solid red ;
+ 	width: 450px;
+ 	box-shadow: 8px 6px 5px #888;
+
+ }
+
+ img
+ {
+ 	width: 450px;
+ 	height: 300px;
+ 	margin: 10px;
+ 	transition: all 1s;
+ }
+
+ img:hover
+ {
+ 	transform: scale(1.1);
+ }
