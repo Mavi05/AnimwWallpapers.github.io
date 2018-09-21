@@ -1,1 +1,2 @@
 # Anime_Wallpapers
+A website for viewing and downloading anime wallpapers using HTML and CSS.
